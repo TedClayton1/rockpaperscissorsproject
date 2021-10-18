@@ -1,6 +1,6 @@
 class Game:
     def __init__(self):
-        
+        pass
     def run_game(self):
         self.runninggame != self.runninggame
     def display_welcome_rules(self):
