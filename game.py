@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 class Game:
     def __init__(self):
         pass
@@ -40,3 +41,5 @@ class Game:
 
 
 
+=======
+>>>>>>> d37caad20efa30e270421ee8598e91342e558f81

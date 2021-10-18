@@ -1,12 +1,11 @@
 from player import Player
 
-class Ai:
-    def __init__(self,random_gesture):
-        self.random_gesture = int 
-
-
 class Ai(Player):
-    pass
+    def __init__(self,name):
+        self.random_gesture = int 
+        super().__init__(name)
 
-ai = Ai()
+
+
+ai = Ai("Tom")
 print(ai.name)

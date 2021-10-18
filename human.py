@@ -3,3 +3,8 @@ class Human:
         self.gesture = ""
     def choose_gesture(self):
         self.choosinggesture != self.choosinggesture
+
+
+
+
+
